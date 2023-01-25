@@ -1,0 +1,17 @@
+
+.card{
+    display: flex;
+    margin: auto;
+    border: 1px solid violet;
+    background-color: azure;
+    border-radius:10px  ;
+    width: 50%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.edit .delete{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
